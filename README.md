@@ -1,6 +1,8 @@
 # Pizza_Place_Sales_PowerBI_Project
 
 ## Table of Contents
+- [Project Download Link](#project-download-link)
+- [Project Screenshots](#project-screenshots)
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
 - [Tools](#tools)
@@ -10,6 +12,19 @@
 - [Results](#results)
 - [Recommendations](#recommendations)
 - [Limitations](#limitations)
+
+---
+### Project Download Link
+- [Click Here to Download](https://github.com/alvincsh/Pizza_Place_Sales_PowerBI_Project/blob/main/Project%20and%20screenshots/Pizza%20Place%20Independent%20Project_AlvinCSH.pbix)
+---
+
+### <ins>Project Screenshots</ins>
+![Pizza Place Independent Project Dashboard1_AlvinCSH](https://github.com/user-attachments/assets/d24c4ef2-d4f9-45d8-9981-57cd8a48660c)
+
+![Pizza Place Independent Project Further Analysis page_AlvinCSH](https://github.com/user-attachments/assets/d1eb0d0b-fc50-49cc-8db0-06529b899f39)
+
+
+---
 
 ### Project Overview
 
