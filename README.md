@@ -41,10 +41,9 @@ In this project, 4 separate CSV files obtained from the [Maven Analytics Website
 - [Click Here to Download the CSV files](https://github.com/alvincsh/Pizza_Place_Sales_PowerBI_Project/tree/main/pizza_sales%20source%20file%20from%20Maven%20Analytics)
 
 
-
 ### Tools
 
-PowerBI Desktop - Data Cleaning, Exploratory Data Analysis, Dashboard Report Visualization
+- PowerBI Desktop - Data Cleaning, Exploratory Data Analysis, Dashboard Report Visualization
 
 
 
@@ -55,6 +54,7 @@ The initial data preparation phase included the following steps:
    - Includes enabling "Column Quality" and "Column Profile" under the "View" ribbon and "column profiling based on the entire data set"
 2. Selecting the appropriate data type for each column
 3. Data Cleansing and Formatting
+
 
 ### Exploratory Data Analysis
 
