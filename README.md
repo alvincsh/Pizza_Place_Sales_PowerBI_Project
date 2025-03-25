@@ -32,16 +32,21 @@ The aim of this project is to analyze the sales performance of a pizza place nam
 
 ### Data Sources
 
-In this project, 4 separate CSV files are utilized as listed below:
+In this project, 4 separate CSV files obtained from the [Maven Analytics Website](https://mavenanalytics.io/data-playground) are utilized as listed below:
 
 - order_details.csv
 - orders.csv
 - pizza_types.csv
 - pizzas.csv
+- [Click Here to Download the CSV files](https://github.com/alvincsh/Pizza_Place_Sales_PowerBI_Project/tree/main/pizza_sales%20source%20file%20from%20Maven%20Analytics)
+
+
 
 ### Tools
 
-PowerBI Desktop - Data Cleaning, Data Analysis, Dashboard Report Visualization
+PowerBI Desktop - Data Cleaning, Exploratory Data Analysis, Dashboard Report Visualization
+
+
 
 ### Data Cleaning and Preparation
 
@@ -140,4 +145,5 @@ Based on the analysis, the following actions are recommended:
 1. Due to lack of data, assumptions on the number of customers per pizza ordered had to be made, which may affect the accuracy of the results obtained.
 2. The data in this project is a fictitious and as such may not be applicable to real world scenarios.
 3. Data on the sales of some of the pizzas may be incomplete, leading to less accurate recommendations.
+4. Due to lack of space and to focus on the pizza analysis story, graphs for analyzing quarterly sales were not included in the final dashboard.
 
