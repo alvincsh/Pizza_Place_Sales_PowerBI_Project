@@ -19,7 +19,7 @@
 - [Click Here to Download](https://github.com/alvincsh/Pizza_Place_Sales_PowerBI_Project/blob/main/Project%20and%20screenshots/Pizza%20Place%20Independent%20Project_AlvinCSH.pbix)
 ---
 ### Project Live View
-<iframe title="Pizza Place Independent Project_AlvinCSH" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiZjhhNjc5MDItM2RiZi00M2IxLWIyMjgtNzY2MWE5NjFiMjkxIiwidCI6ImQzYmI4NmQ0LTA2NzMtNDNhZi1hNGQ0LTBjZmU4ZDVmNmEzMiIsImMiOjEwfQ%3D%3D" frameborder="0" allowFullScreen="true"></iframe>
+- [Click here to go to the Interactive Dashboard](https://app.powerbi.com/view?r=eyJrIjoiZjhhNjc5MDItM2RiZi00M2IxLWIyMjgtNzY2MWE5NjFiMjkxIiwidCI6ImQzYmI4NmQ0LTA2NzMtNDNhZi1hNGQ0LTBjZmU4ZDVmNmEzMiIsImMiOjEwfQ%3D%3D)
 
 ### <ins>Project Screenshots</ins>
 ![Pizza Place Independent Project Dashboard1_AlvinCSH](https://github.com/user-attachments/assets/d24c4ef2-d4f9-45d8-9981-57cd8a48660c)
